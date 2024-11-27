@@ -1,0 +1,8 @@
+POST http://localhost:8080/article
+content-type: application/json
+
+{
+  "title": "Another test Title",
+  "link": "https://example.com/test",
+  "timestamp": "2024-11-24T15:30:00.000Z"
+}

@@ -1,0 +1,39 @@
+# Go-specific build files
+bin/
+obj/
+build/
+
+# Dependency directories
+vendor/
+
+# Go test result files
+*.test
+*.out
+
+# Coverage reports
+coverage/
+
+# Go module files (if you're using Go modules)
+go.sum
+
+# Go-specific IDE/Editor files
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Local SQLite database files (if any)
+*.sqlite
+*.db
+
+# Private keys, certificates, and other secrets
+*.pem
+*.key
+
+# Environment variables file
+.env
+
+# Go generated directories/files
+*.a
+*.so
